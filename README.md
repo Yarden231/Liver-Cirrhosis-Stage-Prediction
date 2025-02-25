@@ -16,7 +16,7 @@ Key features include:
 - Demographic data (Age, Sex)
 - Clinical indicators (Ascites, Hepatomegaly, Spiders, Edema)
 - Biochemical markers (Bilirubin, Cholesterol, Albumin, Copper, Alkaline Phosphatase, SGOT, Triglycerides, Platelets, Prothrombin time)
-- Treatment information (Drug type, survival days)
+- Treatment information (Drug type)
 
 ## Methodology
 
