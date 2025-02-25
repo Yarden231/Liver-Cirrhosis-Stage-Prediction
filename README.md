@@ -76,15 +76,9 @@ The project is organized into three main Jupyter notebooks:
 - Feature importance analysis
 - Visualization of model performance
 
-## Repository Structure
-```
-.
-├── cirrhosis.csv                # Original dataset file
-├── cirrhosis_preprocessed.csv   # Cleaned and preprocessed dataset
-├── EDA.ipynb                    # Exploratory Data Analysis notebook
-├── Models.ipynb                 # Model implementation and evaluation
-└── Pre-Processing.ipynb         # Data preprocessing steps
-```
+### final_report_liver_cirrhosis_prediction.pdf
+provides in-depth details about every aspect of the project.
+
 
 ## Contributors
 - Sivan Raviv
