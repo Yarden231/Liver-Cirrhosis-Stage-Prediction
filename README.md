@@ -1,15 +1,5 @@
 # Liver Cirrhosis Stage Prediction
 
-## Repository Structure
-```
-.
-├── cirrhosis.csv                # Original dataset file
-├── cirrhosis_preprocessed.csv   # Cleaned and preprocessed dataset
-├── EDA.ipynb                    # Exploratory Data Analysis notebook
-├── Models.ipynb                 # Model implementation and evaluation
-└── Pre-Processing.ipynb         # Data preprocessing steps
-```
-
 ## Overview
 This project uses machine learning techniques to predict the stage of liver cirrhosis based on patient clinical data. The goal is to develop accurate models that can classify patients into different cirrhosis stages, which can aid in early detection and treatment planning.
 
@@ -85,6 +75,16 @@ The project is organized into three main Jupyter notebooks:
 - Model evaluation and comparison
 - Feature importance analysis
 - Visualization of model performance
+
+## Repository Structure
+```
+.
+├── cirrhosis.csv                # Original dataset file
+├── cirrhosis_preprocessed.csv   # Cleaned and preprocessed dataset
+├── EDA.ipynb                    # Exploratory Data Analysis notebook
+├── Models.ipynb                 # Model implementation and evaluation
+└── Pre-Processing.ipynb         # Data preprocessing steps
+```
 
 ## Contributors
 - Sivan Raviv
